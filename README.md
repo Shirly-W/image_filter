@@ -3,8 +3,9 @@
 ## 所需库
 
 pip3 install -r requirements.txt
-```
-#或者
+
+或者
+
 pip install umap-learn   
 pip install opencv-python   
 pip install matplotlib  
